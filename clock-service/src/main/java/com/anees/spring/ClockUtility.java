@@ -42,7 +42,5 @@ public class ClockUtility {
 		return speakTime.toString();
 	}
 	
-	public static void main(String[] args) {
-		System.out.println(speakCurrentTime());
-	}
+	
 }
