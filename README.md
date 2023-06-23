@@ -17,10 +17,10 @@ endpoint URL http://localhost:8082/getdaytype/12:00
 Microservice application name : CLOCK-CLIENT <br />
 endpoint URL http://localhost:8082/getcurrenttime
 
-#Discovery server
+# Discovery server
 http://localhost:8761
 
-#Steps to start
+# Steps to start
 1. start discovery server <br />
 2. start clock-service <br />
 3. start clock-client <br />
